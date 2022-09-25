@@ -1,5 +1,9 @@
 # gict_project
 
+Make sure node is Installed https://nodejs.org/en/download/
+
+#Dev proxy used for this project in vue.config.js 
+
 ## Project setup
 ```
 npm install
